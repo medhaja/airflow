@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+tf-keras
+pandas
+numpy
+scikit-learn
+matplotlib
+transformers
+wandb
+datasets
